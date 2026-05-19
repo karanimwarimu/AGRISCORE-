@@ -228,7 +228,7 @@ agriscoreproject/
 
 ## 11. Streamlit dashboard link
 Dashboard deployed at:
-**URL: [ADD_STREAMLIT_URL_HERE]**
+**URL: [[(https://agriscore.streamlit.app/)]**
 
 ---
 
