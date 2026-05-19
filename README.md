@@ -20,6 +20,7 @@ The project is deployed via a **Streamlit dashboard** that supports:
 - **Batch scoring** from uploaded CSV files
 - **Global interpretability** (SHAP summary plot)
 
+visual dashboard:https://public.tableau.com/authoring/AgriculturalRiskPerformance/Story1#2
 ---
 
 ## 2. Final Aim: What we wanted to build — and what we got
