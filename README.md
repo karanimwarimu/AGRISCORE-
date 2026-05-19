@@ -1,5 +1,4 @@
-# AGRISCORE-
-Alternative Credit Scoring for Smallholder Farmers
+
 
 # 🌾 AgriScore — Alternative Credit Scoring for Smallholder Farmers
 
