@@ -78,6 +78,10 @@ The notebook uses a synthetic supervised target:
    - `FEATURE_COLUMNS`
 5. Fills missing feature columns with zeros.
 
+### TABLEAU DASHBOARD & STORY 
+
+https://public.tableau.com/app/profile/brian.ayimba/viz/AgriculturalRiskPerformance/Story1
+
 **Deployment artifacts used by preprocessing**:
 - `Models/encoder.pkl`
 - `agriscore_application/config.py` (authoritative feature schema)
